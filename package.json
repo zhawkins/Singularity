@@ -11,6 +11,9 @@
     "exports": "eyeglass-exports.js",
     "name": "singularitygs"
   },
+  "dependencies": {
+    "breakpoint-sass": ">=2.4.0"
+  },
   "devDependencies": {
     "diff": "^1.2.1",
     "fs-extra": "^0.14.0",
